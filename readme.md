@@ -6,7 +6,7 @@
 
 
 ## Tecnologias que eu uso no meu dia
-<div> style="display: inline_block"><br/>
+<div> 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
